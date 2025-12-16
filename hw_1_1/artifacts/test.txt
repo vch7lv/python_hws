@@ -1,0 +1,17 @@
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1$ ./main.py 
+a
+     1  a
+b
+     2  b
+c
+     3  c
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1$ ./main.py file 
+     1  a
+     2  b
+     3  c
+     4  d
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1$ cat file
+a
+b
+c
+d

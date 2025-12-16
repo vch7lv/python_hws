@@ -1,0 +1,11 @@
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1_3$ ./main.py file
+      3       3      15 file
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1_3$ ./main.py file file
+      3       3      15 file
+      3       3      15 file
+      6       6      30 total
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1_3$ cat file
+asd
+asdasd
+asd
+vch7lv@DESKTOP-B8BT4MA:~/projects/python_hws/hw_1_3$
