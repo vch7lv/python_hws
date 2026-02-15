@@ -7,6 +7,10 @@ name = "latex-gen-hw"
 version = "0.1.0"
 description = "latex generator"
 requires-python = ">=3.8"
+license = { text = "MIT" }
+[project.urls]
+Repository = "https://github.com/vch7lv/python_hws"
+Homepage = "https://github.com/vch7lv/python_hws/tree/main/hw_2"
 
 [tool.setuptools]
 py-modules = ["latex_gen"]

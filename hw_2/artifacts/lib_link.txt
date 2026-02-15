@@ -1,0 +1,1 @@
+https://pypi.org/project/latex-gen-hw/0.1.0/
