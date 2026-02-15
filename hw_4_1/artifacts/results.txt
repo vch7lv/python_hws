@@ -1,0 +1,5 @@
+fib(n) with n=300000, 10 runs
+
+Synchronous (sequential):  10.688 s
+Threading (10 threads):   10.776 s
+Multiprocessing (10 proc): 1.440 s
